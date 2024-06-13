@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-ChessTG-1.0";
+const cacheName = "DefaultCompany-Test-Tranport-Mathcmaking-0.1.0";
 const contentToCache = [
-    "Build/01f2e857705f878ddc39a446834fc91c.loader.js",
-    "Build/308406784c524d0921b9744784766ef5.framework.js",
-    "Build/57ed3118d6ce74735f7aee271109a0c7.data",
-    "Build/2b7ed57c62fe61abe49817100f68875f.wasm",
+    "Build/4cb301595557292ac1ad7acde655c99b.loader.js",
+    "Build/d9161dab8da1f4dfeb113ff4f1ca491b.framework.js",
+    "Build/3322575b575c451b721e12f941ca6ef1.data",
+    "Build/ce2d62e6c89be450f1185024ee713840.wasm",
     "TemplateData/style.css"
 
 ];
